@@ -12,7 +12,7 @@ const App = () => {
       <div className="category-container">
         <img src="" />
         <div className="category-body-builder">
-          <h2>jackets</h2>
+          <h2>baggy jackets</h2>
           <p>shop now</p>
         </div>
       </div>
@@ -20,7 +20,7 @@ const App = () => {
       <div className="category-container">
         <img src="" />
         <div className="category-body-builder">
-          <h2>sneakers</h2>
+          <h2>big sneakers</h2>
           <p>shop now</p>
         </div>
       </div>
