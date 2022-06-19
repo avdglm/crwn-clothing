@@ -4,7 +4,7 @@ const App = () => {
       <div className="category-container">
         <img src="" />
         <div className="category-body-builder">
-          <h2>hats</h2>
+          <h2>Fine hats</h2>
           <p>shop now</p>
         </div>
       </div>
